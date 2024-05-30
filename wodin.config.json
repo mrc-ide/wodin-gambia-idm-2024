@@ -1,0 +1,9 @@
+{
+    "courseTitle": "Gambia Infectious Disease Modelling",
+    "savePrefix": "gambia-idm-2023",
+    "port": 3000,
+    "appsPath": "apps",
+    "baseUrl": "https://epimodels.dide.ic.ac.uk/gambia-idm-2023",
+    "odinAPI": "http://odin.api:8001",
+    "redisUrl": "redis://redis:6379"
+}
